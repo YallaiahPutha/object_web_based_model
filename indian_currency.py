@@ -1,11 +1,4 @@
-"""
- * Copyright (C) 2018-2023 NSLHUB smartvision@nslhub.com  
- * 
- * This file is part of Vision for Visually Impaired (VFVI) Project.
- * 
- * VFVI can not be copied and/or distributed without the express
- * permission of NSLHUB
- """
+
 
 '''
 Summary : For this file we called the Indian currency model and got output as class_name.
