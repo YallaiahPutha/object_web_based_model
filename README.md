@@ -1,5 +1,5 @@
 
-# NSL Light Model Library for EDGE Devices
+
 
 # Project Explanation
 
@@ -26,17 +26,3 @@ Once started this you will get two http links one is local and another one is ne
   Local URL: http://localhost:8501
   Network URL: http://10.11.4.26:8501
 ```
-
-## License
-
-
-'''
-/*******************************************************
- * Copyright (C) 2018-2023 NSLHUB smartvision@nslhub.com  
- * 
- * This file is part of Vision for Visually Impaired (VFVI) Project.
- * 
- * VFVI can not be copied and/or distributed without the express
- * permission of NSLHUB
- *******************************************************/
- '''
