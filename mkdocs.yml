@@ -1,0 +1,22 @@
+site_name: Web Dashboard For Edge Models
+site_description: Testing different mobileNet models using this dashboard
+
+
+nav  :
+    - Home : index.md
+    - Animals_detection : animal.md
+    - Electronics_detection : electronics.md
+    - Fashionwear_detection : fashionwear.md
+    - Fruits_detection : fruits.md
+    - Household_detection : household.md
+    - Kitchenware_detection : kitchenware.md
+    - Outdoor_detection : outdoor.md
+    - Stationary_detection : stationary.md
+    - Vegetables_detection : vegetables.md
+    - Washroom_detection : washroom.md
+    - Indian_Currency  : indian_currency.md
+    - US_currency : uscurrency.md
+    - MultiLabel : multilabel.md
+
+plugins:
+  - mkdocstrings
